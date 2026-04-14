@@ -1,14 +1,13 @@
 ## Hi there 👋
 <marquee direction="right">welcome to my Github</marquee>
 <h1 align="center">Hi 👋, I'm Dhananjay Dinesh Jog</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate computer science student from India </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **jogdhananjay24@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
+- ⚡ CODE AND CHILL
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/darknolight59?t=ai89hg3nwujzwbo4cuf9ra&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/darknolight59?t=ai89hg3nwujzwbo4cuf9ra&s=09" height="30" width="40" /></a>
