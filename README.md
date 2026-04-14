@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Dinesh Jog</h1>
 <h3 align="center">A passionate computer science student from India </h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/thorfinn-sun-down-yz30p954xqt5yx58.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/81WqS4T6x4oAAAAM/goku-peace.gif">
 
 - 📫 How to reach me **jogdhananjay24@gmail.com**
 
